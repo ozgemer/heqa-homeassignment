@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AESQHAu5yxInDUUtkGvxS/X0OpqgcEdZ0Fiul5nVG7g=",
+  "Source": "NetworkInfoApi",
+  "BasePath": "_content/NetworkInfoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
